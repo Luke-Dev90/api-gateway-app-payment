@@ -11,5 +11,4 @@ public class LchalelaServiceGatewayApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LchalelaServiceGatewayApplication.class, args);
 	}
-
 }
